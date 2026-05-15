@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Estate Architect - Premium Real Estate",
+  "description": "Curating prestigious real estate opportunities with architectural precision and absolute discretion. Experience the gold standard of local property acquisition.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
